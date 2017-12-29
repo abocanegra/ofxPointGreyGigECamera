@@ -1,0 +1,13 @@
+Directions for Use
+
+Key Commands
+Selected Camera is the active camera for event listeners to act upon.
+----Set Selected Camera F1-F4-->
+f1 -> set camera 0 as selected camera 
+f2 -> camera 1
+f3 -> camera 2
+f4 -> camera 3
+
+----Event Listeners------->
+t -> Draw Texture to Video Card (on/off)
+
